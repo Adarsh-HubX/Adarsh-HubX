@@ -1,7 +1,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lmenNoczlsYmc1cXZpZXNsMjR3a2NhZ2R2a2F6YXo2aHp4ajFwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/115BJle6N2Av0A/giphy.gif" width="65%" height="auto"/></p>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXA0ZXh5aGt6cHJvNmRvNXdiNDl2b2o2NTA3YjF4a2hpdzJnN3E2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AeHLxU7TZXCPS/giphy.gif" width="65%" height="auto"/></p>
 
 
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
