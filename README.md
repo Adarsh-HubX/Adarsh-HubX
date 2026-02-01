@@ -11,9 +11,9 @@
 
 
 
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img src="https://raw.githubusercontent.com/ALMADADALI/ALMADADALI/refs/heads/main/cms-logo.png" align="right" width="150"/>
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img src="https://raw.githubusercontent.com/Adarsh-HubX/Adarsh-HubX/refs/heads/main/cms-logo.png" align="right" width="150"/>
 
-I'm **Almadad Ali**, a highly skilled Cybersecurity Specialist, Ethical Hacker, and Security Researcher with a strong track record in penetration testing, malware forensics, and advanced vulnerability research.  
+I'm **Adarsh Rathore**, a highly skilled Cybersecurity Specialist, Ethical Hacker, and Security Researcher with a strong track record in penetration testing, malware forensics, and advanced vulnerability research.  
 
 I am the founder of **[Cyber Mind Space](https://www.youtube.com/@CyberMindSpace)** — a leading cybersecurity YouTube channel with 100K+ subscribers, where I share real-world hacking techniques, professional pentesting tutorials, and industry-grade security knowledge that empowers professionals, students, and enthusiasts worldwide.  
 
@@ -24,7 +24,7 @@ With expertise spanning **offensive security**, **exploit development**, **rever
 <details>
 <summary>💫 More About Me:</summary>
 
-- **Name:** Almadad Ali  
+- **Name:** Adarsh Rathore  
 - **From:** India 🇮🇳  
 - **Role:** Cybersecurity Specialist | Ethical Hacker | Security Researcher | Forensics Analyst  
 - **Founder:** Cyber Mind Space (200K+ Subscribers)  
@@ -63,7 +63,7 @@ With expertise spanning **offensive security**, **exploit development**, **rever
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/almadadali/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Adarsh-HubX/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CyberMindSpace) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@CyberMindSpace) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/CYBER-MIND-SPACE/61575658943222/) 
@@ -130,9 +130,9 @@ With expertise spanning **offensive security**, **exploit development**, **rever
 <tr>
 <td width="55%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Almadadali&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Almadadali&theme=github_dark&hide_border=false" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almadadali&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Adarsh-HubX&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Adarsh-HubX&theme=github_dark&hide_border=false" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-HubX&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
 </td>
 <td width="45%" valign="top" align="center">
@@ -146,7 +146,7 @@ With expertise spanning **offensive security**, **exploit development**, **rever
 <div align="center">
   
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Almadadali&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Adarsh-HubX&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 ---
 
@@ -162,7 +162,7 @@ With expertise spanning **offensive security**, **exploit development**, **rever
 
 <p align="center">
     🔗 <a href="https://cybermindspace.com/" target="_blank">Cyber Mind Space — Explore Our Cybersecurity World</a>
-          <img src="https://raw.githubusercontent.com/ALMADADALI/ALMADADALI/refs/heads/main/Screenshot%202025-09-09%20214258.png" width="600" alt="Cyber Mind Space Website Preview">
+          <img src="https://raw.githubusercontent.com/Adarsh-HubX/Adarsh-HubX/refs/heads/main/Screenshot%202025-09-09%20214258.png" width="600" alt="Cyber Mind Space Website Preview">
   </a>
 </p>
 
