@@ -11,65 +11,28 @@
 
 
 
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img src="https://raw.githubusercontent.com/Adarsh-HubX/Adarsh-HubX/refs/heads/main/cms-logo.png" align="right" width="150"/>
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm **Adarsh Rathore**, a highly skilled Cybersecurity Specialist, Ethical Hacker, and Security Researcher with a strong track record in penetration testing, malware forensics, and advanced vulnerability research.  
+I'm **Adarsh Rathore**, a Cyber Security student and passionate Ethical Hacking learner focused on building strong foundations in penetration testing, web application security, and network defense.
 
-I am the founder of **[Cyber Mind Space](https://www.youtube.com/@CyberMindSpace)** — a leading cybersecurity YouTube channel with 100K+ subscribers, where I share real-world hacking techniques, professional pentesting tutorials, and industry-grade security knowledge that empowers professionals, students, and enthusiasts worldwide.  
+I actively explore real-world vulnerabilities, practice offensive security techniques in labs and CTF environments, and build security-focused tools to sharpen my skills. My goal is to grow into a professional Red Team specialist and security researcher.
 
-With expertise spanning **offensive security**, **exploit development**, **reverse engineering**, and **web application security**, I aim to bridge the gap between theory and practice — helping individuals and organizations strengthen their defenses against ever-evolving threats.  
+My interests include **offensive security**, **vulnerability assessment**, **malware basics**, and **reverse engineering fundamentals**, where I continuously learn by doing and experimenting.
+
 
 ---
 
 <details>
 <summary>💫 More About Me:</summary>
 
-- **Name:** Adarsh Rathore  
-- **From:** India 🇮🇳  
-- **Role:** Cybersecurity Specialist | Ethical Hacker | Security Researcher | Forensics Analyst  
-- **Founder:** Cyber Mind Space (200K+ Subscribers)  
-
-**Specialties:**
-- Web Application Security — OWASP Top 10, API Pentesting, Business Logic Flaws  
-- Red Teaming & Social Engineering  
-- Exploit Development & Zero-Day Research  
-- Reverse Engineering & Malware Forensics  
-- Digital Forensics & Incident Response (DFIR)  
-- Network Security & Threat Intelligence  
+still learning!!
 
 </details>
 
-## 📌 Present Status
-<table border="0" style="border-collapse: collapse;">
-<tr>
-  <td width="60%" valign="top">
-
-- Performing advanced penetration tests on web apps, networks, and APIs  
-- 🛠 Developing custom hacking tools & automation scripts for reconnaissance & exploitation  
-- Deep-diving into Malware Analysis, Reverse Engineering, and APT simulations  
-- Researching Mobile Application Security & Blockchain/Web3 exploitation  
-- Mentoring future cybersecurity professionals through **Cyber Mind Space**  
-- Contributing to open-source security projects & bug bounty programs  
-
-  </td>
-  <td width="40%" valign="top" align="center">
-
-  <img src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1229779%2Fb915e799-ad77-4ad5-9477-feb30ef3171d.gif" width="300px" alt="Status GIF" />
-
-  </td>
-</tr>
-</table>
-
-
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Adarsh-HubX/) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CyberMindSpace) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@CyberMindSpace) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/CYBER-MIND-SPACE/61575658943222/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/cyber_mind_space?igsh=c2M3bHRidTY1anFh&utm_source=qr) 
-[![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/cybermindspace) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cybermindspacee@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarshrathore-sec/) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/) 
 
 
 # 🛠 Knowledge & Skills
@@ -147,26 +110,6 @@ With expertise spanning **offensive security**, **exploit development**, **rever
   
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Adarsh-HubX&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-
----
-
-**"Talk is cheap. Show me the code."**
-<p align="center">
-<a>🌱</a>
-</p>
-
----
-
-<details>
-<summary>🌐 Visit Us</summary>
-
-<p align="center">
-    🔗 <a href="https://cybermindspace.com/" target="_blank">Cyber Mind Space — Explore Our Cybersecurity World</a>
-          <img src="https://raw.githubusercontent.com/Adarsh-HubX/Adarsh-HubX/refs/heads/main/Screenshot%202025-09-09%20214258.png" width="600" alt="Cyber Mind Space Website Preview">
-  </a>
-</p>
-
-</details>
 
 ---
 
