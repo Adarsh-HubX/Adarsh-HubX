@@ -16,7 +16,7 @@ My interests include **offensive security**, **vulnerability assessment**, **mal
 ---
 
 <details>
-<summary>💫 More About Me:</summary>
+<summary>More About Me:</summary>
 
 still learning!!
 
