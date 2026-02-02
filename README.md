@@ -57,7 +57,7 @@ still learning!!
 <td width="55%" valign="top">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-HubX&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=Adarsh-HubX&theme=github-dark" alt="GitHub Streak" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Adarsh-HubX&theme=github_dark&hide_border=false" alt="GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-HubX&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
 </td>
@@ -71,9 +71,9 @@ still learning!!
 
 <div align="center">
   
-### 🔝 Top Languages
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Adarsh-HubX&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-HubX&layout=compact&theme=github_dark)
 
 
 ---
