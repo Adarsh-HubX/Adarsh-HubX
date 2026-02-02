@@ -71,9 +71,10 @@ still learning!!
 
 <div align="center">
   
-### 🔝 Top Contributed Repo
+### 🔝 Top Languages
 
-![](https://github-contributor-stats.vercel.app/api?username=Adarsh-HubX&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-HubX&layout=compact&theme=github_dark)
+
 
 ---
 
