@@ -70,9 +70,9 @@ still learning!!
 </table>
 
 <div align="center">
-  
+
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Adarsh-HubX&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Almadadali&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 ---
 
