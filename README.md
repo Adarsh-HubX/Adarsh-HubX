@@ -10,13 +10,13 @@ I'm **Adarsh Rathore**, a Cyber Security student and passionate Ethical Hacking 
 
 I actively explore real-world vulnerabilities, practice offensive security techniques in labs and CTF environments, and build security-focused tools to sharpen my skills. My goal is to grow into a professional Red Team specialist and security researcher.
 
-My interests include **offensive security**, **vulnerability assessment**, **malware basics**, and **reverse engineering fundamentals**, where I continuously learn by doing and experimenting.
+
 
 
 ---
 
 <details>
-<summary>More About Me:</summary>
+<summary>more about me:</summary>
 
 still learning!!
 
@@ -70,13 +70,6 @@ still learning!!
 </table>
 
 <div align="center">
-  
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Adarsh-HubX&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-
-
-
----
 
 ![Snake animation](https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake-dark.svg)
 
