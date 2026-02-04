@@ -11,8 +11,6 @@ I'm **Adarsh Rathore**, a Cyber Security student and passionate Ethical Hacking 
 I actively explore real-world vulnerabilities, practice offensive security techniques in labs and CTF environments, and build security-focused tools to sharpen my skills. My goal is to grow into a professional Red Team specialist and security researcher.
 
 
-
-
 ---
 
 <details>
@@ -51,23 +49,6 @@ still learning!!
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=plastic&logo=vmware&logoColor=white)
 
-# 📊 GitHub Stats:
-<table>
-<tr>
-<td width="55%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Adarsh-HubX&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Adarsh-HubX&theme=github_dark&hide_border=false" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-HubX&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://camo.githubusercontent.com/9e33759decde7629a1e2df5d70ec6d924349adc7d769101df4d7f75bd4cea392/68747470733a2f2f692e696d6775722e636f6d2f31546f574557772e706e67" width="400px" alt="GIF" />
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
