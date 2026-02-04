@@ -3,14 +3,6 @@
 <p align="center">
   <img src="https://camo.githubusercontent.com/c1b4d0420508f610411fc1dd55578e357ce33da141b648f598247393c9525920/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578636a56316547517a617a426f6557497761474d34647a453563473832596d46754d3252334e4451794f474e71596e52686432356e4d695a6c634431324d56396e61575a7a58334e6c59584a6a61435a6a6444316e2f6443425a74413269754e715a572f67697068792e67696668747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578636a56316547517a617a426f6557497761474d34647a453563473832596d46754d3252334e4451794f474e71596e52686432356e4d695a6c634431324d56396e61575a7a58334e6c59584a6a61435a6a6444316e2f6443425a74413269754e715a572f67697068792e676966" width="65%" height="auto"/></p>
 
-
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
-I'm **Adarsh Rathore**, a Cyber Security student and passionate Ethical Hacking learner focused on building strong foundations in penetration testing, web application security, and network defense.
-
-I actively explore real-world vulnerabilities, practice offensive security techniques in labs and CTF environments, and build security-focused tools to sharpen my skills. My goal is to grow into a professional Red Team specialist and security researcher.
-
-
 ---
 
 <details>
